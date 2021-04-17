@@ -4,7 +4,7 @@ An implementation of ACP-DA, a new model for predicting anticancer peptides.
 
 Reference
 ========================
-Our manuscipt titled with "ACP-DA: Improving the prediction of anticancer peptides using data augmentation" is being reviewed by molecular therapy-nucleic acids.
+Our manuscipt titled with "ACP-DA: Improving the prediction of anticancer peptides using data augmentation" is being reviewed by Frontiers in Genetics.
 
 Requirements
 ========================
@@ -40,5 +40,5 @@ Contact
 Author: Xian-gan Chen
 Maintainer: Xian-gan Chen
 Mail: chenxg@mail.scuec.edu.cn
-Date: 2021-3-10
+Date: 2021-4-16
 School of Biomedical Engineering, South-Central University for Nationalities, China
